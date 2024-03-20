@@ -1,6 +1,6 @@
 # Abugida
 
-A new Flutter project.
+Abugida Amharic Dictionary is a user-friendly mobile application developed using Flutter, designed to provide quick and easy access to the rich vocabulary of the Amharic language. This app serves as a comprehensive tool for both native Amharic speakers and learners alike.
 
 ## Getting Started
 
